@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simwai&label=Profile%20views&color=a36fe2&style=plastic" alt="simwai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simwai" alt="simwai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/simonwaiblinger" target="blank"><img src="https://img.shields.io/twitter/follow/simonwaiblinger?logo=twitter&style=for-the-badge" alt="simonwaiblinger" /></a> </p>
-
 - 🔭 I’m currently working on [random-gifs](https://github.com/simwai/random-gifs)
 
 - 📫 How to reach me **SimonWaiblinger@live.at**
