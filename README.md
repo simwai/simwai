@@ -15,3 +15,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simwai&show_icons=true&theme=dracula&locale=en" alt="simwai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simwai&theme=dark" alt="simwai" /></p>
+
+<style>
+  a:hover {
+    color: unset !important;
+  }
+</style>
