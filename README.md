@@ -7,6 +7,6 @@
 - 📫 How to reach me if you need a website or have questions to my repos **SimonWaiblinger@live.at** 
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simwai&show_icons=true&theme=dracula&locale=en&layout=compact" alt="simwai" />
 <img src="https://github-readme-stats.vercel.app/api?username=simwai&show_icons=true&theme=dracula&locale=en" alt="simwai" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simwai&show_icons=true&theme=dracula&locale=en&layout=compact" alt="simwai" />
 </p>
