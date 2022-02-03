@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [random-gifs](https://github.com/simwai/random-gifs)
 
-- 📫 How to reach me if you need a website or have questions to my repos **SimonWaiblinger@live.at** 
+- 📫 If u need a website or have questions to my repos just write me on Discord: **wobby (ᵔᴥᵔ)#2484** 
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=simwai&show_icons=true&theme=dracula&locale=en" alt="simwai" />
