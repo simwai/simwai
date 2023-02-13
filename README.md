@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at TradeDork 📈
 
-- 📫 If u need a website, Pinescript indicator, Scraping or Discord bots, APIs or have questions to my repos just write me on Discord: **wobby (ᵔᴥᵔ)#2484** 
+- 📫 If u need a website, Pinescript indicator, Scraping or Discord bot, API or you have questions to my repos just write me on Discord: **wobby (ᵔᴥᵔ)#2484** 
 
 <p>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simwai&show_icons=true&theme=dracula&locale=en" alt="simwai" />
