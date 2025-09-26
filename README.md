@@ -4,7 +4,6 @@
 [![Mail](https://img.shields.io/badge/Mail-simonwaiblinger@wobbit.at-07000C?style=rounded&logo=gmail&logoColor=DCBEFF&labelColor=1F1924)](mailto:simonwaiblinger@wobbit.at)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simwai&hide_progress=true&bg_color=07000C&text_color=DCBEFF&title_color=DCBEFF&border_color=DCBEFF" />
-<br />
 
 ## About Me
 Hi, I’m Simon Waiblinger, known as simwai or Wobby, a full-stack developer from Vorarlberg, Austria, with 4 years of experience meticulously crafting fast, and reliabe systems.
@@ -24,8 +23,6 @@ Creatively, I’m inspired by Salvador Dalí’s surrealism. In programming, I a
 I’m open to freelance or full-time opportunities, remote or on-site, in German or English. Innovative fields such as FinTech particularly excite me.
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simwai&hide_progress=true&bg_color=07000C&text_color=DCBEFF&title_color=DCBEFF&border_color=DCBEFF" />
-
 <kbd>
 <img src="https://simonwaiblinger.de/mario-coding.gif" alt="Mario Coding" />
 </kbd>
