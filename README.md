@@ -14,7 +14,7 @@ My approach is guided by Clean Code, the Law of Demeter, and principles like KIS
 
 I avoid no-code tools, React, Lerna, and Nx, valuing flexibility and hands-on code ownership.
 
-Notable contributions include merged PRs to npm-packlist, a dependency of the npm CLI that saves millions of euros in development time. I authored the PowerShell deployment script for freqtrade and implemented a scheduled trading cooldown reset feature. I also fixed a critical bug in XO where the tool ignored @stylistic rules in the configuration, potentially affecting other settingsxx.
+Notable contributions include merged PRs to npm-packlist, a dependency of the npm CLI that saves millions of euros in development time. I authored the PowerShell deployment script for freqtrade and implemented a scheduled trading cooldown reset feature. I also fixed a critical bug in XO where the tool ignored @stylistic rules in the configuration, potentially affecting other settings.
 
 Outside work, balance keeps me grounded. Taekwondo hones my focus, meditation (mudras, Qi Gong) clears my mind, and the gym builds resilience. I enjoy freeriding in winter and beach on vacations. Dance styles like shuffle and hip-hop fuel creativity, while swimming refreshes me. Visiting galleries, concerts, and social events expands my perspectives and strengthens my network. Family, laughter, nature, and restoring old items keep me centered.
 
