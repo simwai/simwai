@@ -1,7 +1,7 @@
 <b>Contact</b><br />
 <i>Write as first message: GitHub</i>
 
-[![Mail](https://img.shields.io/badge/Mail-SimonWaiblinger@live.at-07000C?style=rounded&logo=gmail&logoColor=DCBEFF&labelColor=1F1924)](mailto:SimonWaiblinger@live.at)
+[![Mail](https://img.shields.io/badge/Mail-simonwaiblinger@wobbit.at-07000C?style=rounded&logo=gmail&logoColor=DCBEFF&labelColor=1F1924)](mailto:simonwaiblinger@wobbit.at)
 
 <kbd>
 <img src="https://simonwaiblinger.de/mario-coding.gif" alt="Mario Coding" />
