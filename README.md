@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simwai&hide_progress=true&bg_color=07000C&text_color=DCBEFF&title_color=DCBEFF&border_color=DCBEFF" />
 
 ## About Me
-Hi, I’m Simon Waiblinger, known as simwai or Wobby, a full-stack developer from Vorarlberg, Austria, with 4 years of experience meticulously crafting fast, and reliabe systems.
+Hi, I’m Simon Waiblinger, known as simwai or Wobby, a full-stack developer from Vorarlberg, Austria, with 5 years of experience meticulously crafting fast, and reliabe systems.
 
 I specialize in Vue (my favorite) and Angular for dynamic user interfaces, backed by solid server-side experience in Node.js and .NET. Automation drives much of my work – developing bots, scrapers, and trading algorithms to simplify complex tasks.
 
