@@ -10,7 +10,7 @@ Hi, I'm Simon Waiblinger, known as simwai or Wobby, a full-stack developer from 
 
 I specialize in Vue (my favorite) and Angular for dynamic user interfaces, backed by solid server-side experience in Node.js and .NET. Automation drives much of my work – developing bots, scrapers, and trading algorithms to eliminate complexity and wasted cycles.
 
-My approach is guided by Clean Code, the Law of Demeter, and principles like KISS and DRY. I design software using proven patterns such as Observer, Strategy, Mixin, and Command. I prefer MVVM, hand-crafted DI, and favor composition over inheritance. CUPID and SOLID principles shape my architectural decisions, and I'm a dedicated follower of the Agile Manifesto.
+My approach is guided by Clean Code, the Law of Demeter, and principles like KISS and DRY. I design software using proven patterns such as Observer, Strategy, Monad, Mixin, and Command. I prefer MVVM, hand-crafted DI, and favor composition over inheritance. CUPID and SOLID principles shape my architectural decisions, and I'm a dedicated follower of the Agile Manifesto.
 
 I deliberately avoid no-code tools, React, Lerna, and Nx – flexibility and genuine code ownership matter more than convenience. I'm also strictly against vibecoding. Early commits might show traces, but those days are archived. Every line now serves intent, scalability, and correctness.
 
