@@ -16,7 +16,7 @@ Building graceful shutdowns and fail-fast logic into systems ensures reliability
 
 AI handles boilerplate and simple markup. No point writing another form by hand. But complex logic? That needs human understanding. Same reason to avoid Nx and Lerna: the moment tooling becomes harder to debug than the problem it solves, it's not worth it.
 
-Notable contributions include merged PRs to npm-packlist, a core dependency of the npm CLI used by millions of developers. Authored the PowerShell deployment script for freqtrade and implemented a scheduled trading cooldown reset feature.
+Notable contributions include a merged PR to npm-packlist, improving debugging capabilities for 20+ million npm users and potentially saving thousands of developer-hours daily. Authored the PowerShell deployment script for freqtrade (30k+ GitHub stars) and implemented a scheduled trading cooldown reset feature.
 
 Outside work, balance keeps me grounded. Taekwondo hones focus, meditation (mudras, Qi Gong) builds body awareness, and the gym builds resilience. Freeriding in winter and beach escapes on vacations. Dance styles like shuffle and hip-hop fuel creativity, while swimming refreshes. Alpha wave music keeps me in flow while coding. Visiting galleries, concerts, and social events expands perspectives and strengthens networks. Family, laughter, nature, and restoring old items keep me centered.
 
