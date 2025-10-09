@@ -6,23 +6,32 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simwai&hide_progress=true&bg_color=07000C&text_color=DCBEFF&title_color=DCBEFF&border_color=DCBEFF" />
 
 ## About Me
-Hi, I'm Simon Waiblinger, known as simwai or Wobby, a full-stack developer from Vorarlberg, Austria, with 5 years of experience meticulously crafting fast and reliable systems.
+I'm Simon Waiblinger (simwai, or Wobby to some), a full-stack developer working from Vorarlberg, Austria, who has spent the past five years building systems that prioritize reliability and velocity in roughly equal measure—though the balance shifts depending on whether I'm debugging production infrastructure at 3 AM or prototyping a new trading algorithm.
 
-Specializing in Vue (my favorite) and Angular for dynamic user interfaces, backed by solid server-side experience in Node.js and .NET. Automation drives much of my work, developing bots, scrapers, and trading algorithms to eliminate complexity and wasted cycles. Building full-stack headless CMS systems is another area of focus, delivering flexible content management without frontend constraints. Statistical evaluations in Python round out the technical toolkit, turning raw data into actionable insights.
+My primary technical focus centers on Vue and Angular for dynamic frontend architectures, complemented by backend work in Node.js and .NET ecosystems. 
 
-My approach is guided by Clean Code, the Law of Demeter, and principles like KISS and DRY. Software design employs proven patterns such as Observer, Strategy, Monad, Mixin, and Command. Preferring hand-crafted DI while favoring composition over inheritance. CUPID and SOLID principles shape architectural decisions, following the Agile Manifesto closely. 
+Much of my work involves automation in its various manifestations: trading bots that execute strategies without human intervention, scrapers that extract signal from noise, and algorithms that compress complexity into manageable abstractions. 
 
-Building graceful shutdowns and fail-fast logic into systems ensures reliability under pressure. Error handling deserves special attention: modern codebases suffer from both over-throwing exceptions and silent fallbacks that swallow failures. The right approach makes errors visible and actionable without creating noise, turning potential debugging nightmares into traceable, fixable issues.
+I've also devoted substantial energy to building full-stack headless CMS platforms that decouple content management from presentation logic, allowing flexibility without the constraints of monolithic frameworks. Statistical analysis in Python rounds out the toolkit, transforming raw data streams into actionable insights through proper quantitative methods.
 
-AI handles boilerplate and simple markup. No point writing another form by hand. But complex logic? That needs human understanding. Same reason to avoid Nx and Lerna: the moment tooling becomes harder to debug than the problem it solves, it's not worth it.
+My architectural philosophy derives from pragmatic experience rather than dogmatic adherence to any single paradigm. Clean Code principles, the Law of Demeter, and strategies like KISS and DRY inform daily decision-making, while patterns like Observer, Strategy, Monad, Mixin, and Command provide structural scaffolding when complexity justifies abstraction. 
 
-Notable contributions include a merged PR to npm-packlist, improving debugging capabilities for 20+ million npm users and potentially saving thousands of developer-hours daily. Authored the PowerShell deployment script for freqtrade (30k+ GitHub stars) and implemented a scheduled trading cooldown reset feature.
+I favor hand-crafted dependency injection over framework magic, composition over inheritance wherever feasible, and alignment with CUPID and SOLID principles as conceptual guides rather than rigid constraints. The Agile Manifesto's emphasis on working software over comprehensive documentation resonates, though I interpret this as "documentation follows understanding" rather than "skip documentation entirely".
 
-Outside work, balance keeps me grounded. Taekwondo hones focus, meditation (mudras, Qi Gong) builds body awareness, and the gym builds resilience. Freeriding in winter and beach escapes on vacations. Dance styles like shuffle and hip-hop fuel creativity, while swimming refreshes. Alpha wave music keeps me in flow while coding. Visiting galleries, concerts, and social events expands perspectives and strengthens networks. Family, laughter, nature, and restoring old items keep me centered.
+System reliability demands attention to failure modes that many developers ignore. I build graceful shutdown mechanisms into every long-running process and implement fail-fast logic that exposes problems immediately rather than allowing them to propagate through layers of abstraction. Modern codebases suffer from two opposing pathologies: excessive exception throwing that drowns signal in noise, and silent fallbacks that swallow failures until debugging becomes archaeological excavation. The correct approach makes errors visible, actionable, and traceable without creating so much logging overhead that production systems become unreadable observability nightmares.
 
-Creatively, Salvador Dalí's surrealism provides inspiration. In programming, admiring sindresorhus for TypeScript expertise and xmatthias for Python mastery.
+Regarding AI-assisted coding: I use LLMs extensively for boilerplate generation, simple markup, and repetitive structural work where variation adds no value. This is purely instrumental—there's no conceptual benefit to manually typing another form validation block when the pattern is already established. However, business logic, state management, and anything involving non-trivial complexity requires human cognition because debugging AI-generated code you don't fundamentally understand transforms development into superstitious cargo-culting.
 
-Open to freelance opportunities, remote or on-site, in German or English. Innovative fields such as FinTech particularly excite me.
+The same principle applies to monorepo frameworks like Nx and Lerna: when tooling complexity exceeds the problem complexity it allegedly solves, you've created net negative value. I skip the abstraction layers. 
+
+My open-source contributions include a merged PR to npm-packlist that improves debugging output for 20+ million npm users, potentially saving thousands of developer-hours daily through better error visibility in the packaging pipeline. I authored the PowerShell deployment automation script for freqtrade (a trading bot with 30k+ GitHub stars) and implemented scheduled cooldown reset functionality that prevents strategy exhaustion during volatile market conditions.
+
+Outside software development, I maintain balance through physical and contemplative practices. Taekwondo training builds kinesthetic awareness and focus, meditation practices (mudras, Qi Gong) develop body-mind integration, and gym work provides straightforward feedback loops between effort and result. Winter brings freeriding opportunities, vacations typically involve coastal environments, and I practice shuffle and hip-hop dance styles as creative outlets. Swimming serves both athletic and meditative purposes. Alpha wave music maintains flow states during extended coding sessions. Gallery visits, concerts, and social events provide exposure to perspectives outside the technical bubble, while family time, nature exposure and laughter keep me grounded in reality rather than pure abstraction.
+
+I draw intellectual inspiration from Salvador Dalí's surrealist work, which demonstrates how constraint violation can reveal deeper structural truths, and from developers like sindresorhus (TypeScript craftsmanship) and xmatthias (Python technical depth) whose code exemplifies clarity without sacrificing power.
+
+I'm available for freelance engagements, remote or on-site, in German or English. 
+FinTech projects particularly interest me given their intersection of technical rigor, quantitative reasoning, and real-world consequence.
 
 <br />
 <kbd>
