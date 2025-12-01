@@ -3,7 +3,9 @@
 
 [![Mail](https://img.shields.io/badge/Mail-simonwaiblinger@wobbit.at-07000C?style=rounded&logo=gmail&logoColor=DCBEFF&labelColor=1F1924)](mailto:simonwaiblinger@wobbit.at)
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simwai&hide_progress=true&bg_color=07000C&text_color=DCBEFF&title_color=DCBEFF&border_color=DCBEFF" />
+-->
 
 ## About Me
 I'm Simon Waiblinger (simwai, or Wobby to some), a full-stack developer working from Vorarlberg, Austria, who has spent the past five years building systems that prioritize reliability and velocity in roughly equal measure — though the balance shifts depending on whether I'm maintaining production systems under pressure or prototyping a new trading algorithm. My frontend work centers on Vue and Angular — Vue for its pragmatic approach, Angular for enterprise applications (especially with .NET backends) where sustained development investment justifies the framework's complexity. Backend work spans Node.js and .NET ecosystems.
